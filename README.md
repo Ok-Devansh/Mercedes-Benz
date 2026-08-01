@@ -26,7 +26,12 @@ The dataset and Mercedes-Benz logo used in this project is intended solely for e
 
 
 ## What's inside?
-Crest-Bank-Customer-Insights/ │ ├── python/ ├── sql/ ├── powerbi/ ├── image,screenshot/ ├── project report/ ├── final presentation/ └── README.md
+- python file
+- sql queries
+- powerbi(pbix) file
+- image,screenshot
+- final presentation
+- README.md
 
 ## Dashboard
 Screenshots of the Dashboards are available in the project repository (list) section.
