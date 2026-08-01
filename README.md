@@ -1,16 +1,16 @@
 # Mercedes-Benz
 Business Performance and intelligence project. Made to analyze sales performance, market trends, age and segment wise preferences to uncover new market opportunities and solve complex real world business needs and provide overall **business analysis** for a well established automobile company which operates across the globe.
 
-## Main Objectives
-** Uncover insights on performance through customer, product, and dealer analysis.
+## Main Objectives are:
+* To Uncover insights on performance through customer, product, and dealer analysis.
 
--Identify customer demands, financial metrics, and time-series analysis.
+* To Identify customer demands, financial metrics, and time-series analysis.
 
--Identify growth opportunities across various countries.
+* To Identify growth opportunities across various countries.
 
--Provide a centralized informative analytics hub using an interactive Power BI dashboard.
+* To Provide a centralized informative analytics hub using an interactive Power BI dashboard.
 
--Provide actionable recommendations to enhance customer experience, expectations and support data-driven decision-making.
+* And Provide actionable recommendations to enhance customer experience, expectations and support data-driven decision-making.
 
 ## Tool Used
 Python 🐍 (Pandas, NumPy)
