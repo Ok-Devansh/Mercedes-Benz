@@ -23,6 +23,13 @@ Crest-Bank-Customer-Insights/ │ ├── python/ ├── sql/ ├── pow
 ## Dashboard
 Screenshots of the Dashboards are available in the project repository (list) section.
 
+
+## Repository Contents
+* `Mercedes_Benz.ipynb` – Data preprocessing & exploratory analysis.
+* `sales_analysis.sql` & `Profit analysis.sql` – Transactional & profitability insights.
+* `Customer analysis.sql` & `Strategic Business Questions.sql` – Demographics and key business query analysis.
+* `MERCEDES_BENZ_Dashboard.pbix   – Interactive Power BI dashboard file.
+* 
 Key Insights 🔍
 Customer Base – The bank serves 5,000 customers, with Adults representing the largest customer segment.
 Account Balance – Total balance reached ₹741 Million, while 2026 recorded a balance of ₹17 Million.
