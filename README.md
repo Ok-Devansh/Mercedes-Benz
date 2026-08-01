@@ -30,6 +30,7 @@ Screenshots of the Dashboards are available in the project repository (list) sec
 * `Customer analysis.sql` & `Strategic Business Questions.sql` – Demographics and key business query analysis.
 * `MERCEDES_BENZ_Dashboard.pbix`   – Interactive Power BI dashboard file.
 * `Presentation.pptx` - Workflow or (report) view of the project
+*  And one Screenshot of the Power BI Dashboard.
   
 ## Key Insights 🔍
 - EV demand continues to grow, generating total sales of 15.32M. 
