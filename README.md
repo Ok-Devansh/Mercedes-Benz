@@ -2,7 +2,7 @@
 Business Performance and intelligence project. Made to analyze sales performance, market trends, age and segment wise preferences to uncover new market opportunities and solve complex real world business needs and provide overall **business analysis** for a well established automobile company which operates across the globe.
 
 ## Main Objectives are:
-**1.**  Uncover insights on performance through customer, product, and dealer analysis.
+**1.**  To Uncover insights on performance through customer, product, and dealer analysis.
 
 **2.**  Identify customer demands, financial metrics, and time-series analysis.
 
