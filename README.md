@@ -9,7 +9,7 @@ Business Performance and intelligence project. Made to analyze sales performance
 -Provide actionable recommendations to enhance customer experience, expectations and support data-driven decision-making.
 
 ## Tool Used
-Python 🐍 (Pandas, NumPy, Plotly)
+Python 🐍 (Pandas, NumPy)
 MySQL 🛢️
 Power BI 📊
 MS Excel 📗
@@ -25,24 +25,32 @@ Screenshots of the Dashboards are available in the project repository (list) sec
 
 
 ## Repository Contents
-* `Mercedes_Benz.ipynb` – Data preprocessing & exploratory analysis.
+* `Mercedes_Benz.ipynb` – Data cleaning, preprocessing & exploratory analysis.
 * `sales_analysis.sql` & `Profit analysis.sql` – Transactional & profitability insights.
 * `Customer analysis.sql` & `Strategic Business Questions.sql` – Demographics and key business query analysis.
-* `MERCEDES_BENZ_Dashboard.pbix   – Interactive Power BI dashboard file.
-* 
-Key Insights 🔍
-Customer Base – The bank serves 5,000 customers, with Adults representing the largest customer segment.
-Account Balance – Total balance reached ₹741 Million, while 2026 recorded a balance of ₹17 Million.
-Transaction Activity – Transaction volume peaked during May 2026, indicating seasonal customer activity.
-Payment Trends – UPI emerged as the most preferred payment method across customers.
-Digital Banking – Only 25% of accounts remain active, highlighting an opportunity to improve customer engagement.
-Regional Performance – The West region recorded the highest customer base during 2026.
-Business Recommendations and way forward
-Increase engagement initiatives to improve active account usage.
-Promote digital banking adoption through targeted campaigns.
-Resolve pending and failed transactions to improve customer experience.
-Launch premium banking offers for high-value customers.
-Focus marketing efforts on high-potential regions and customer segments.
-Continue strengthening UPI services while optimising other payment channels.
-Author- Devansh Saini
+* `MERCEDES_BENZ_Dashboard.pbix`   – Interactive Power BI dashboard file.
+* `Presentation.pptx` - Workflow or (report) view of the project
+  
+## Key Insights 🔍
+- EV demand continues to grow, generating total sales of 15.32M. 
+- India recorded the highest sales among all countries. 
+- The G- Class model recorded the lowest sales among all models. 
+- July generated the highest profit of 4.44M. 
+- Diesel vehicles contributed the highest sales, totaling 73.39M. 
+- The average order value was 182.73K. 
+
+## Business Recommendations
+* Invest in charging infrastructure partnerships and **EV** awareness campaigns to accelerate EV adoption. 
+* Increase investment in **EV models** to capitalize on growing demand. 
+* Expand marketing and dealership presence in high-performing countries, especially **India**. 
+* Identify reasons and gaps related to - pricing, features, and promotional strategy for the lowest-performing model. 
+* Analyze the factors behind **July's** peak profitability and repeat successful campaigns in other months as well. 
+* Maintain adequate inventory for **Diesel vehicles** + continuously look after towards the transition toward **EV adoption**. 
+* Focus more on marketing efforts for **high-demand vehicle categories** to maximize revenue. 
+* Optimize production planning based on regional demand and seasonal sales trends. 
+* Introduce targeted promotional offers in low-performing **regions** to improve sales. 
+* Continuously monitor ongoing trends and customer preferences to tailor overall operations.
+* Improve forecasting using historical sales and profit patterns to optimize **inventory** and **supply chain operations**
+
+
 Devansh Saini
