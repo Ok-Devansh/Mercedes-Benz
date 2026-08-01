@@ -17,6 +17,10 @@ MS Excel 📗
 ## Journey of this project
 Raw Data ↓ Data Cleaning (Python) ↓ MySQL ↓ Data Analysis ↓ Power BI Dashboard ↓ Business Insights
 
+*Disclaimer*⚠️
+The dataset and Mercedes-Benz logo used in this project is intended solely for educational and portfolio purposes. It does not represent official or proprietary company data, and any analysis or conclusions are based on the available sample data.
+
+
 ## What's inside?
 Crest-Bank-Customer-Insights/ │ ├── python/ ├── sql/ ├── powerbi/ ├── image,screenshot/ ├── project report/ ├── final presentation/ └── README.md
 
