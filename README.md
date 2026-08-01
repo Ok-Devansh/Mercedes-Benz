@@ -25,19 +25,11 @@ Raw Data ↓ Data Cleaning (Python) ↓ MySQL ↓ Data Analysis ↓ Power BI Das
 The dataset and Mercedes-Benz logo used in this project is intended solely for educational and portfolio purposes. It does not represent official or proprietary company data, and any analysis or conclusions are based on the available sample data.
 
 
-## What's inside?
-- python file
-- sql queries
-- powerbi(pbix) file
-- image,screenshot
-- final presentation
-- README.md
-
 ## Dashboard
-Screenshots of the Dashboards are available in the project repository (list) section.
+Screenshot of the Dashboard is available in the project repository (list) section.
 
 
-## Repository Contents
+## Repository Contents (What's inside?)
 * `Mercedes_Benz.ipynb` – Data cleaning, preprocessing & exploratory analysis.
 * `sales_analysis.sql` & `Profit analysis.sql` – Transactional & profitability insights.
 * `Customer analysis.sql` & `Strategic Business Questions.sql` – Demographics and key business query analysis.
@@ -67,4 +59,4 @@ Screenshots of the Dashboards are available in the project repository (list) sec
 * Improve forecasting using historical sales and profit patterns to optimize **inventory** and **supply chain operations**
 
 
-Devansh Saini
+**Devansh Saini**
